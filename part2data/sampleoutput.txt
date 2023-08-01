@@ -1,0 +1,11 @@
+No-recurrence Probability: 	 Recurrence Probability: 	 Predicted Class: 	 Actual Class: 
+0.3366680063417971			 0.5902461358566657		    recurrence			no-recurrence-events
+0.9902530902311454			 0.07665268510507485		no-recurrence			no-recurrence-events
+1.0770026508535857			 0.022061832082840144		no-recurrence			no-recurrence-events
+0.7773381690813735			 0.05199833742930795		no-recurrence			no-recurrence-events
+0.4962275640889513			 0.21770259018867932		no-recurrence			no-recurrence-events
+0.96061282233097			 0.061662963616355745		no-recurrence			no-recurrence-events
+0.5673234783794434			 0.20160248025538208		no-recurrence			no-recurrence-events
+1.2594103752956094			 0.03545128234751044		no-recurrence			recurrence-events
+0.3431907025823451			 0.5645305520627035		    recurrence			recurrence-events
+0.3681640695369493			 0.47068524926502736		    recurrence			recurrence-events
